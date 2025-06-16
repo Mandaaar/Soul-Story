@@ -32,11 +32,6 @@ Using this info, it spins a personalized tale set in ancient, futuristic, or com
 
 ---
 
-## 🚀 Try It Live
-
-👉 [Click here to open the portal to your past life](https://mandaaar.github.io/Soul-Story)
-
----
 
 ## 🛠 Tech Stack
 
