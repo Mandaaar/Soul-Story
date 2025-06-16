@@ -31,6 +31,10 @@ Using this info, it spins a personalized tale set in ancient, futuristic, or com
 - 💅 **Fully responsive** and easy to deploy
 
 ---
+## 🚀 Try It Live
+
+🧙‍♂️ [https://soul-story.netlify.app](https://soul-story.netlify.app)  
+Enter... if you dare to uncover your ancient (or intergalactic) destiny.
 
 
 ## 🛠 Tech Stack
